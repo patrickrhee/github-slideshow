@@ -2,5 +2,9 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Dame da ne
+dame yo
+dame nano yo
+anta ga
+sukite
 Use the left arrow to go back!
